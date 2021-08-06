@@ -1,5 +1,7 @@
 # Shopaholic-e-commerce-website
 
+Deployed link : https://shopaholic-web.herokuapp.com/ 
+
 Shopaholic is an online shopping platform like Amazon, where users
 can register themselves, view products, add products to their
 shopping carts and finally checkout after making payment.
